@@ -1,0 +1,22 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+#my-div{
+    background-color: coral;
+    height: 100vh;
+    text-align: center;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    transition: all 0.5s;
+}
+#btn{
+    background-color: blueviolet;
+    color: white;
+    font-size: 35px;
+    border: none;
+    border-radius: 18px;
+    padding: 18px;
+    width: 200px;
+}
